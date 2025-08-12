@@ -18,3 +18,9 @@ Develop SQL-based analytics to deliver detailed insights into :
 - **Product Perfomance**
 - **Sales Trends**
 
+# License
+This project under the MIT License 
+
+# About Me
+I am an learner and ambitious undergraduate student that have interest with data engineering, data scientist, business analyst and data analyst
+
